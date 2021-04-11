@@ -1,9 +1,6 @@
-# Dev Container and Configuration for Clojure
+# Getting Clojure By Russ Olsen
 
 ## Introduction:
-Built totally with the help of https://dev.to/kspeakman/clojurescript-dev-env-in-a-container-w-vs-code-58fd
-without which this would not exist.
+dev container using Calva, as I could not get the leiningen one to work, a project for another day, but hopefully Calva will do just as well...
 
-currently sets up visual studio code with Calva Clojure
-
-Also has Git Emoji Commit "benjaminadk.emojis4git" as part of the tooling.
+So this repo is just my version of the scripts from the book, all failings are mind
